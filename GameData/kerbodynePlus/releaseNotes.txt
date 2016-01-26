@@ -1,0 +1,8 @@
+# Kerbodyne Plus V1.0
+
+# Notes:
+* This release will BREAK any saves from Kerbodyne Plus Alpha, so backing up save files is highly encouraged!
+* This is an early version of Kerbodyne Plus. Names in cfg files are subject to change, so updating in the future WILL BREAK GAMES.
+* This is the first major release of Kerbodyne Plus since the Alpha in mid 2015.
+* The rate of update is planed to increase in the next month, so check in at the KSP Add-on Releases forum thread.
+* Many parts are still to come, such as ion engines and the revamped NRAX converter, as well as some other really neat parts! Check out the dev thread for more info: [Link] (http://forum.kerbalspaceprogram.com/index.php?/topic/112686-wip-kerbodyne-plus-end-game-parts-preview/&page=1)

@@ -7,6 +7,11 @@ Make sure you have KSP 1.05 or higher.
 
 # About
 
+##Summary
+
+Kerbodyne Plus is an end-game parts pack for the game Kerbal Space Program.
+[link](https://kerbalspaceprogram.com/)
+
 ##Pics
 
 ![](http://i.imgur.com/UZEntDe.jpg)
@@ -22,9 +27,6 @@ Make sure you have KSP 1.05 or higher.
 ![](http://i.imgur.com/c2kTfjv.jpg)
 
 
-Kerbodyne Plus is an end-game parts pack for the game Kerbal Space Program.
-[link](https://kerbalspaceprogram.com/)
-
 ##Project Goals
 * Provide optimized parts for large construction
 * Improve end-game play
@@ -33,6 +35,37 @@ Kerbodyne Plus is an end-game parts pack for the game Kerbal Space Program.
 * Combine parts to reduce part count
 * Keep designs grounded in reality (or at worst near-future)
 * Remain mod agnostic (Kerbodyne Plus does not support or hinder other mods)
+
+
+#Release Notes for Stable Release V1.0
+
+##Parts Included:
+
+* CM1 24 Kerbal Command Pod
+* S3 KL-11 "Behemoth" Liquid Booster (max thrust 8000, ISP 320/295 in vac)
+* Kerbodyne K-12 Tank (13163 LF, 16088 Ox, 3.75m profile, 15m tall)
+* T404 3.75M Adapter
+* T404 A-1, A-2, A-3 Integrated trusses
+* T404 B-1, B-2, B-3 Integrated trusses
+* T404 Side Panel
+* "London" Docking Port (1.25, 2.5, 3.75 variants)
+* "Leviathan" Solar Wing (simply massive solar panels)
+* XL-6 Landing Strut (3.75M high)
+
+##What's New:
+
+* If you played with the alpha release then many of these parts will look familiar. Everything aside from the docking ports has been remodeled and everything has been retextured.
+* All textures are now dds!
+* Many naming conventions have been reworked in order to give a more logical relationship to the parts (T404 A-1 and T404 B-2 for example)
+* Models were compiled in many instances with more than two materials, and split into separate mesh items, to further optimize memory footprint.
+
+##Todo:
+
+* Part rebalancing (many parts need better mass, heat, and monetary costs.
+* More parts!
+* Agency missions for those parts! (subject to change)
+* Refine part naming conventions
+* Further part memory optimizations!
 
 
 # Credits

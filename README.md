@@ -1,3 +1,5 @@
+![](http://i.imgur.com/0EjQnIN.png)
+
 # Installation
 
 Installation is simple. Copy the folder “kerbodynePlus” to your GameData folder.

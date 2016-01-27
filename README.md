@@ -7,6 +7,21 @@ Make sure you have KSP 1.05 or higher.
 
 # About
 
+##Pics
+
+![](http://i.imgur.com/UZEntDe.jpg)
+
+![](http://i.imgur.com/zXRe9xY.jpg)
+
+![](http://i.imgur.com/ZalILxk.jpg)
+
+![](http://i.imgur.com/kLrY8C7.jpg)
+
+![](http://i.imgur.com/DPt3K9c.jpg)
+
+![](http://i.imgur.com/c2kTfjv.jpg)
+
+
 Kerbodyne Plus is an end-game parts pack for the game Kerbal Space Program.
 [link](https://kerbalspaceprogram.com/)
 
@@ -26,7 +41,7 @@ Kerbodyne Plus is an end-game parts pack for the game Kerbal Space Program.
 
 * Bonus Eventus — 3d Modeling, CFG design, Project Lead
 
-## Special thanks
+## Special Thanks
 
 * This mod would not exist without the work of my predecessors nil2work, Bac9, and Roverdude as well as everyone at the addon dev KSP forum. 
 

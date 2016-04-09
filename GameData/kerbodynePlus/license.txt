@@ -1,4 +1,4 @@
-Title: Kerbodyne Plus V1.0
+Title: Kerbodyne Plus V1.05
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). 
 [link](https://creativecommons.org/licenses/by-nc-sa/3.0/)

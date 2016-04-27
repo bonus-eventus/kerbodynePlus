@@ -1,4 +1,4 @@
-![](http://i.imgur.com/8yW4XUP.jpg)
+![](http://i.imgur.com/TnoYjzI.jpg)
 
 # Installation
 

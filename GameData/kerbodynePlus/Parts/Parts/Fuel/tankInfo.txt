@@ -1,0 +1,18 @@
+// kerbodyne plus fuel tanks are assumed to be 60% of the weight of a 1m x 1m unit 
+// of the total dry mass of a s3 tank multiplied by the total surface area of the fuel
+// tank in question. This turns out to be 0.06 tons per meter squared.
+
+// fuel ratio is 1:1.22 or fuel = 82% of oxidizer
+
+// oxidizer = total of fuel + oxidizer * 0.54945055
+
+// one unit of fuel  = 5kg
+
+// 1kg of fuel takes up 14 L
+
+// 14 L = 0.014m3
+
+// volume formula for a cylinder is: volume(m3) = pi * radius(squared) * height
+
+// area of a cylinder formula: A=2πrh+2πr(squared)
+

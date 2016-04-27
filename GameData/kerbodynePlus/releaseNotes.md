@@ -1,3 +1,24 @@
+# Kerbodyne Plus Dev 1.0751 - 04/27/2016
+![](http://i.imgur.com/TnoYjzI.jpg)
+
+# Notes:
+* Fixed incorrect readme file.
+
+__________________________________________________
+# Kerbodyne Plus Dev 1.075 - 04/27/2016
+![](http://i.imgur.com/TnoYjzI.jpg)
+
+# Notes:
+* This release will BREAK any saves from Kerbodyne Plus V1.0, so backing up save files is highly encouraged!
+* Added ELF Thruster
+* Added A8A Fission Reactor
+* Added T202 F-2 Xe Integrated Truss
+* Adjusted ISP and fuel flow for ELF Engine
+* Fixed a problem with srf attach weakness in both S6 radial decouplers and S6 tank clusters
+* Adjusted EC of T202 Batteries from 6000 to 4000.
+* Fixed a minor problem with XL-6 Landing Strut where when in the start extended state, upon launch sometimes the craft would spawn halfway inside the launch pad or bounce into the air incredibly high, haha
+
+__________________________________________________
 # Kerbodyne Plus V1.051 — 4/10/2016
 
 # Notes:

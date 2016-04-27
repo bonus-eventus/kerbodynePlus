@@ -1,11 +1,18 @@
-# Kerbodyne Plus Dev 1.0751 - 04/27/2016
+# Kerbodyne Plus 1.0752 - 04/27/2016
+![](http://i.imgur.com/TnoYjzI.jpg)
+
+# Notes:
+* This release addresses errors made during the initial upload process that resulted in misplaced directories.
+
+__________________________________________________
+# Kerbodyne Plus 1.0751 - 04/27/2016
 ![](http://i.imgur.com/TnoYjzI.jpg)
 
 # Notes:
 * Fixed incorrect readme file.
 
 __________________________________________________
-# Kerbodyne Plus Dev 1.075 - 04/27/2016
+# Kerbodyne Plus 1.075 - 04/27/2016
 ![](http://i.imgur.com/TnoYjzI.jpg)
 
 # Notes:
